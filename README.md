@@ -34,6 +34,21 @@ An AI-powered Healthcare Appointment Management System built using **ServiceNow 
 - 🤝 [Contributing](docs/CONTRIBUTING.md)
 
 ---
+## 📷 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Appointment Form
+![Appointment Form](screenshots/appointment.png)
+
+### Email Notification
+![Email Notification](screenshots/email.png)
+
+### Workflow
+![Workflow](screenshots/flow.png)
+
+---
 
 ## 🛠 Tech Stack
 
