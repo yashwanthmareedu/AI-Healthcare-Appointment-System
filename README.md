@@ -35,6 +35,12 @@ An AI-powered Healthcare Appointment Management System built using **ServiceNow 
 
 ---
 
+## 🛠 Tech Stack
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-App%20Engine-81B441?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
+![Flow Designer](https://img.shields.io/badge/Flow%20Designer-Automation-blue?style=for-the-badge)
+![Platform Analytics](https://img.shields.io/badge/Platform-Analytics-orange?style=for-the-badge)
 ## 🚀 Technologies Used
 
 - ServiceNow App Engine Studio
@@ -50,7 +56,7 @@ An AI-powered Healthcare Appointment Management System built using **ServiceNow 
 
 ## 👨‍💻 Author
 
-**Mareedu Yeshwanth**
+**Mareedu Yaswanth Babu**
 
 Information Technology Undergraduate
 
