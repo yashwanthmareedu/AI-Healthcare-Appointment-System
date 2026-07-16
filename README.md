@@ -4,7 +4,19 @@ An AI-powered Healthcare Appointment Management System built using **ServiceNow 
 
 ---
 
+## ✨ Features
+
+- 🤖 AI-based symptom severity classification
+- 📅 Automated appointment scheduling
+- 📧 Automatic email notifications
+- 👨‍⚕️ Doctor recommendation system
+- 🚨 Emergency prioritization
+- 📊 Interactive Platform Analytics dashboards
+- 🔄 Workflow automation using Flow Designer
+- 🏥 Patient, Doctor & Appointment management
+
 # 📚 Project Documentation
+
 
 ## 📖 Documentation
 
